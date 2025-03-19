@@ -79,13 +79,6 @@ Algoritmul de recomandare se bazează pe preferințele utilizatorului:
 1. Din lista de streameri ascultați de utilizator, identifică top 5 stream-uri neascultatede cu cele mai multe ascultări
 2. Recomandările sunt filtrate după tipul de stream solicitat (SONG, PODCAST sau AUDIOBOOK)
 
-### Recomandări surpriză
-Algoritmul de recomandare surpriză funcționează diferit:
-1. Identifică streameri care nu au fost încă ascultați de utilizator
-2. Selectează 3 stream-uri care au fost adăugate cel mai recent
-3. Dacă stream-urile au fost adăugate în aceeași zi, le prioritizează pe cele cu mai multe ascultări
-4. Recomandările sunt filtrate după tipul de stream solicitat
-
 ## Structura datelor
 
 Aplicația utilizează trei clase principale pentru a reprezenta entitățile:
