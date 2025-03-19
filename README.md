@@ -1,6 +1,6 @@
 # Smart Stream Recommendation System
 
-Acest proiect implementează un sistem de recomandări pentru o platformă de streaming care gestionează muzică, podcast-uri și cărți audio. Sistemul administrează utilizatori, creatori de conținut și stream-uri de conținut.
+Acest proiect implementează un sistem de recomandări pentru o platformă de streaming care gestionează muzică, podcast-uri și cărți audio. Sistemul administrează utilizatori, creatori de conținut și stream-uri de conținut. Proiectul pune in aplicare Design Patterns si ajuta la intelegerea acestora.
 
 ## Prezentare generală a proiectului
 
